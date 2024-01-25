@@ -1,20 +1,18 @@
-# Aleo Token Site
+# Aleo Store Site
 
-- Aleo testnet3 상에 배포한 `token_112233.aleo` 프로그램을 이용할 수 있는 프론트엔드입니다.
-- [token_112233.aleo](https://explorer.hamp.app/program?id=token_112233.aleo)
+- Aleo testnet3 상에 배포한 `store_55555.aleo` 프로그램을 이용할 수 있는 프론트엔드입니다.
+- [store_55555.aleo](https://explorer.hamp.app/program?id=store_55555.aleo)
 
 ## 기능 구현
-- [x] Public Mint
-- [x] Private Mint
-- [x] Public Transfer
-- [ ] Private Transfer
-- [ ] Public to Private Transfer
-- [ ] Private to Public Transfer
+- [x] Mint
+- [x] Add Item
+- [ ] Buy
+- [x] Check Mapping 
 
 ## TOOD
-- `Private Transfer` 등에서 구현해야하는 `Record` 입력 문제가 존재함
+- `Buy` 에서 Record 값인 **Token** 을 입력할 때 문제가 발생함
 
 
 ## ScreenShots
 
-<img width="1440" alt="image" src="https://github.com/c0np4nn4/aleo_token_site/assets/49471288/40ec978a-22ec-4129-ba85-1427b63e65a3">
+<img width="1440" alt="image" src="https://github.com/c0np4nn4/aleo_store_site/assets/49471288/6a232076-10da-4d46-82f7-1fce094523aa">
