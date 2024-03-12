@@ -15,4 +15,4 @@
 
 ## ScreenShots
 
-<img width="1440" alt="image" src="https://github.com/c0np4nn4/aleo_store_site/assets/49471288/6a232076-10da-4d46-82f7-1fce094523aa">
+<img width="1440" alt="image" src="https://i.ibb.co/br8K05X/image.png">
