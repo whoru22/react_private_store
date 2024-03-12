@@ -35,7 +35,7 @@ export const App = () => {
   return (
     <div className="container d-flex justify-content-center align-items-center vh-100">
       <div className="flex-column rounded border-2 p-4 bg-light shadow">
-        <h1 className="text-center">store_55555.aleo</h1>
+        <h1 className="text-center">store_2462213065.aleo</h1>
 
         <WalletProvider
           wallets={wallets}
@@ -75,7 +75,7 @@ const WalletToolBox = () => {
 };
 
 const TransitionComponent: React.FC<{ transition: string }> = ({ transition }) => {
-  const program_name = "store_55555.aleo";
+  const program_name = "store_2462213065.aleo";
 
   switch (transition) {
     case "mint_token":

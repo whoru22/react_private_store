@@ -40,7 +40,7 @@ export const CheckMapping = ({program_name}:{program_name: string}) => {
   return (
     <div>
       <h3>Check Mapping</h3>
-      <a href="https://explorer.hamp.app/program?id=store_55555.aleo#read">CHECK MAPPING</a>
+      <a href="https://explorer.hamp.app/program?id=store_2462213065.aleo#read">CHECK MAPPING</a>
     </div>
   );
 };

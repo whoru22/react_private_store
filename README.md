@@ -1,7 +1,7 @@
 # Aleo Store Site
 
-- Aleo testnet3 상에 배포한 `store_55555.aleo` 프로그램을 이용할 수 있는 프론트엔드입니다.
-- [store_55555.aleo](https://explorer.hamp.app/program?id=store_55555.aleo)
+- Aleo testnet3 상에 배포한 `store_2462213065.aleo` 프로그램을 이용할 수 있는 프론트엔드입니다.
+- [store_2462213065.aleo](https://testnet3.aleoscan.io/program?id=store_2462213065.aleo)
 
 ## 기능 구현
 - [x] Mint
